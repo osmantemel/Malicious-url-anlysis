@@ -1,2 +1,1 @@
-> LSTM ile zararlı url analizi yapılmıştır 
-> Malicious URL analysis was done with LSTM
+> LSTM ile zararlı url analizi yaplıdı | Malicious URL analysis was done with LSTM
